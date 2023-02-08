@@ -5,7 +5,6 @@ featured_image: https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?ixl
 summary: "Prezentuje 10 króków, które przyblizą Was do pięknej i zdrowej cery .."
 tags:
   - "zdrowa cera"
-  - Patrycja Koral
 ---
 
 ## "10 Kroków do Zdrowej i Pięknej Cery"
