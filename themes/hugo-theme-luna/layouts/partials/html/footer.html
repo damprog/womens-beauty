@@ -23,12 +23,12 @@
                     <span>RSS</span>
                 </a>
             {{- end -}}
-            {{- if .Site.Params.sitemap -}}
+            <!-- {{- if .Site.Params.sitemap -}}
                 <a data-no-swup href="{{- "/sitemap.xml" | absLangURL -}}" target="_blank" class="mr-1.5 hover:text-theme">
                     <span class=" md:hidden lg:inline">{{- $.Site.Data.luna.icon.sitemap | safeHTML -}}</span>
                     <span>Sitemap</span>
                 </a>
-            {{- end -}}
+            {{- end -}} -->
             {{- if .Site.Params.googleTranslate -}}
                 <div id="google_translate_element" class="overflow-hidden rounded border dark:border-darkBorder"></div>
             {{- end -}}

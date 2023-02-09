@@ -28,7 +28,7 @@ params:
     enabled: true
     fullText: true
 
-  sitemap: true
+  sitemap: false
 
   themeColor: "#dd6065"
 
@@ -102,7 +102,7 @@ params:
     excludeNodeNames: []
     excludeClasses: []
 
-  googleTranslate: true
+  googleTranslate: false
 
   pangu: true
 
