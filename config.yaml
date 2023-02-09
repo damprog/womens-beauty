@@ -23,7 +23,7 @@ paginate: 10
 # 启用谷歌统计
 # google analytics tracking code
 # googleAnalytics: UA-98634098-1
-googleAnalytics: "G-138XXCD8GV"
+googleAnalytics: G-138XXCD8GV
 
 # 版权信息，默认为 author.name ↓
 # default: author.name ↓
