@@ -71,9 +71,9 @@ caches:
 # See https://gohugo.io/about/hugo-and-gdpr/
 privacy:
   googleAnalytics:
-    anonymizeIP: true
+    anonymizeIP: false
   youtube:
-    privacyEnhanced: true
+    privacyEnhanced: false
 
 sitemap:
   changefreq: weekly
