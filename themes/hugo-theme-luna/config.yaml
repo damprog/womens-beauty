@@ -3,6 +3,8 @@ module:
     extended: true
     min: "0.104.0"
 
+googleAnalytics: "G-138XXCD8GV"
+
 params:
   publicCDN: ""
 
