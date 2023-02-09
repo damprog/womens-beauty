@@ -281,16 +281,16 @@ params:
     enabled: true
     # 网站创建时间
     # Site creation time
-    creatTime: 2016/12/12
+    creatTime: 2023/02/05
   
   #  网站创建年份
   # Site creation year
-  since: "2016"
+  since: "2022"
 
   # 显示文章过时提醒
   # show warning when outdated info detected
   outdatedInfoWarning:
-    enabled: true
+    enabled: false
     # 超过该天数将显示过时提醒
     # A timeout reminder will be displayed if the last modification time exceeds that number of days
     day: 90
@@ -319,7 +319,8 @@ params:
 
   # 显示右上角 i18n 切换按钮
   # Display i18n toggle button
-  i18nlist: true
+  i18nlist: false
+  # this is the top-left change langeuage
 
   # GitHub 页面设置
   # github page
