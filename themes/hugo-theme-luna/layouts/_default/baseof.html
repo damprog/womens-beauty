@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{- .Language -}}" class="lang-{{- .Language -}}">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-138XXCD8GV"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-138XXCD8GV');
+        </script>
+
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3353966736614286"
+        crossorigin="anonymous"></script>
+
         {{- partial "html/head/head" . -}}
         {{- block "head" . -}}{{ end }}
     </head>
