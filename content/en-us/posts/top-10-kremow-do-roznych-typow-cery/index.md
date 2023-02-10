@@ -4,7 +4,8 @@ date: 2023-01-09T02:49:13+02:00
 featured_image: https://images.pexels.com/photos/4046316/pexels-photo-4046316.jpeg?auto=compress&cs=tinysrgb&w=600
 summary: "Wybraliśmy kremy, które są dobre dla danego typu skóry"
 tags:
-  - "cera"
+  - "zdrowa cera"
+  - "kremy"
 ---
 
 Oto top 10 kremów dostosowanych do różnych typów cery:
@@ -21,3 +22,5 @@ Oto top 10 kremów dostosowanych do różnych typów cery:
 10. Dla cery normalnej: Krem nawilżający Neutrogena Hydro Boost Water Gel
 
 Pamiętaj, że nie ma jednego uniwersalnego kremu, który będzie odpowiedni dla wszystkich typów skóry. Ważne jest, aby dobrać odpowiedni krem do swoich potrzeb skóry i stosować go regularnie, aby uzyskać najlepsze rezultaty.
+
+{{< color "theme" "Autor postu:" >}} {{< tag theme "Patrycja Koral" >}}  

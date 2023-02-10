@@ -1,6 +1,6 @@
 ---
 title: "Czynności, które musisz wykonać przed zrobieniem dobrego makijażu"
-date: 2023-01-09T02:49:13+02:00
+date: 2023-01-20T04:19:23+02:00
 featured_image: https://images.pexels.com/photos/5241030/pexels-photo-5241030.jpeg?auto=compress&cs=tinysrgb&w=600
 summary: "Oto kilka prostów porad, które sprawią, że zabłyśniesz"
 tags:
@@ -20,3 +20,8 @@ Aby uzyskać dobry i trwały makijaż, należy wykonać kilka kluczowych czynno�
 - Ostateczne przygotowanie - upewnij się, że skóra jest dokładnie oczyszczona, nawilżona i chroniona, aby uzyskać najlepszy efekt makijażu.
 
 Wykonując te proste czynności, można uzyskać doskonały i trwały makijaż, który będzie wyglądać świetnie przez cały dzień.
+
+{{< quote-center >}}
+{{< color "theme" "Autor postu:" >}} {{< tag theme "Patrycja Koral" >}}  
+{{< /quote-center >}}
+
